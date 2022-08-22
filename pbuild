@@ -3,3 +3,6 @@ build() {
   make
 }
 
+remove() {
+  rm ~/.local/bin/args
+}
